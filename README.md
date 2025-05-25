@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Ajfan!
 
-<!--
-**AjfanZargar7/AjfanZargar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Graduate Data Analyst | 📊 MSc in Data Analytics, University of Leicester  
+🔍 Specializing in NLP, Data Visualization, and Statistical Modeling  
+📍 Leicester, UK | Open to data roles 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tools & Skills
+**Languages:** Python, R, SQL  
+**Libraries:** Pandas, Matplotlib, scikit-learn, spaCy  
+**Visualization:** Power BI, Tableau  
+**Concepts:** NLP, Data Cleaning, Statistical Analysis, ML Models
+
+---
+
+## 🎓 Certifications
+- Google Data Analytics (Google)
+- Generative AI for Data Analysts (IBM)
+- Databases & SQL for Data Science (IBM)
+
+---
+
+## 📫 Let's Connect
+[📧 Email](mailto:ajfanzargar0@gmail.com) • [🔗 LinkedIn](https://linkedin.com/in/ajfan-mubarik) • [🐙 GitHub](https://github.com/ajfanzargar)
+
